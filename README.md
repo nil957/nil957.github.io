@@ -4,7 +4,7 @@
 
 ## Privacy Policy
 
-**Effective Date:** May 20, 2024  *(Please update to the current date)*
+**Effective Date:** December 20, 2025
 
 TidyShot ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is handled when you use our mobile application.
 
@@ -41,7 +41,7 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 
 ## Terms of Service
 
-**Effective Date:** May 20, 2024 *(Please update to the current date)*
+**Effective Date:** December 20, 2025
 
 Please read these Terms of Service ("Terms") carefully before using the TidyShot application.
 
